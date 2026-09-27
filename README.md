@@ -157,5 +157,4 @@ Untuk memukau dosen/juri saat sesi demonstrasi:
    - Tekan **Enter** untuk menyelesaikan transaksi.
    - Struk kasir digital thermal muncul secara elegan.
    - Pindah ke tab **Master Stok Gudang** dan perlihatkan bahwa stok barang di `master_stok_barang.txt` telah **berkurang secara otomatis** dan tercatat di tab **Rekap Penjualan Kasir**!
-#   s t u d y _ k a s u s _ f u n _ j a v a  
- 
+#
